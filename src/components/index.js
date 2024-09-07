@@ -1,0 +1,5 @@
+export {About} from './About'
+export {Home} from './Home'
+export {Header} from './Header'
+export {Footer} from './Footer'
+export {Contact} from './Contact'
